@@ -2,7 +2,7 @@
   "name": "react10",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://HimanshuNobeee.github.io/resumeBuilder/",
+
 
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
